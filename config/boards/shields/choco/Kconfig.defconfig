@@ -1,0 +1,6 @@
+if SHIELD_CHOCO
+
+config ZMK_KEYBOARD_NAME
+    default "choco"
+
+endif
